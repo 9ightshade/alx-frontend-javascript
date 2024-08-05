@@ -1,0 +1,12 @@
+{
+  "name": "alx-frontend-javascript",
+  "version": "1.0.0",
+  "description": "![Holberton logo](https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png)\r > Web Stack - Front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
